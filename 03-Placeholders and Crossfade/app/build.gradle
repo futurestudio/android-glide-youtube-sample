@@ -21,10 +21,10 @@ android {
 
 dependencies {
     // image loading library Glide
-    compile 'com.github.bumptech.glide:glide:4.0.0'
-    annotationProcessor 'com.github.bumptech.glide:compiler:4.0.0'
+    compile 'com.github.bumptech.glide:glide:4.2.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.2.0'
 
     // Android's support library for the framework (necessary for Glide)
-    compile 'com.android.support:support-v4:25.3.1'
+    //compile 'com.android.support:support-v4:25.3.1'
     compile 'com.android.support:appcompat-v7:25.3.1'
 }
