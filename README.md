@@ -6,5 +6,4 @@ In this repository you'll find the full projects of our Glide YouTube tutorial v
 - [Resizing & Scaling](https://youtu.be/RCPARTCuQM4): `/02-Resizing and Scaling`
 - [Placeholders & Crossfade](https://youtu.be/TKh0ugS5Xqk): `/03-Placeholders and Crossfade`
 - [Gifs and Video Thumbnails](https://youtu.be/tcM73YGsyE8): `/04-Gif and Video Thumbnails`
-
-
+- [Simple Adapter Use (ListView, GridView)[]: `/05-Simple Adapter Use`
